@@ -1,4 +1,6 @@
 ##
+
+- [PCDT](https://www.gov.br/saude/pt-br/assuntos/pcdt): Protocolos e Diretrizes Clínicas Terapêuticas
 - [RENAME2024](https://bvsms.saude.gov.br/bvs/publicacoes/relacao_nacional_medicamentos_2024.pdf): Relação Nacional de Medicamentos Essenciais
 
 ## 2012
