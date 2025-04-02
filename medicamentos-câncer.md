@@ -49,9 +49,7 @@ Ressalto que a autorização de importação excepcional pela Diretoria Colegiad
 avaliação e liberação sanitária de produtos importados.
   > Destaco, ainda, que, como o medicamento objeto da importação não é regularizado na Anvisa, não é possível atestar a sua qualidade, segurança e eficácia, ficando a instituição importadora responsável por avaliar o benefício-risco da utilização do medicamento em seus pacientes, incluindo o monitoramento de quaisquer eventos adversos ou queixas técnicas.
 
-
-
-- # 2024
+## 2024
   
 - [Pesquisadores do Butantan estudam uso de BCG recombinante como tratamento para câncer de bexiga](https://butantan.gov.br/noticias/pesquisadores-do-butantan-estudam-uso-de-bcg-recombinante-como-tratamento-para-cancer-de-bexiga#:~:text=O%20tratamento%20consiste%20em%20cirurgia,de%20um%20cateter%20na%20uretra.)
   - 
