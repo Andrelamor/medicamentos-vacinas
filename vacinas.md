@@ -1,0 +1,2 @@
+- [Cobertura Vacinal MG](https://www.saude.mg.gov.br/vacinamaisminas/#imunopreviniveis)
+- [Site Vacinação BR](https://www.gov.br/saude/pt-br/vacinacao)
