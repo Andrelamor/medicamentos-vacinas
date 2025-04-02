@@ -1,5 +1,7 @@
 ##
-
+- [Programa Estadual de Assistência Farmacêutica ](https://www.saude.mg.gov.br/obtermedicamentos/)
+  - [Estoque de Medicamentos do Componente Especializado da Assistência Farmacêutica nas Farmácias das Unidades Regionais de Saúde](https://www.saude.mg.gov.br/wp-content/uploads/2025/03/Estoque-Medicamentos-CEAF_Unidades-Regionais-de-Saude_28-03-2025-1.pdf)
+  - [REMEMG 2024](https://www.saude.mg.gov.br/wp-content/uploads/2025/01/REMEMG_2024.pdf) - Relação de Medicamentos Essenciais do Estado de Minas Gerais
 - [PCDT](https://www.gov.br/saude/pt-br/assuntos/pcdt): Protocolos e Diretrizes Clínicas Terapêuticas
 - [RENAME2024](https://bvsms.saude.gov.br/bvs/publicacoes/relacao_nacional_medicamentos_2024.pdf): Relação Nacional de Medicamentos Essenciais
 
