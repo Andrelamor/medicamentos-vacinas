@@ -32,6 +32,21 @@ tratamento de indução em casos de baixo risco (que podem ser substituídos com
 
  > workshop “A biotecnologia no estudo do câncer: novos modelos animais desenvolvidos por edição de DNA”, com as palestras “BCG recombinante: uma abordagem em câncer de bexiga e melanoma” – realizado pela professora Fabiana K. Seixas (Biotecnologia /UFPel) e “Oncopigs: um modelo biológico robusto ao estudo do Câncer e potencial aplicação em Medicina Personalizada” – ministrada pelo professor Tiago Collares.
 
+## 2022
+
+- [Importação excepcinoal Onco BCG da ìndia - parecer ANVISA](https://www.gov.br/anvisa/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria/votos-dos-circuitos-deliberativos-1/2022/cd-602-2022-voto.pdf)
+
+  > Diante do exposto, considerando a indisponibilidade, ainda que temporária, do produto no mercado nacional e o possível impacto à saúde dos pacientes que necessitam
+fazer uso do medicamento, voto FAVORAVELMENTE à autorização da importação, pela Sociedade Beneficente Israelita Brasileira Hospital Albert Einstein, em
+caráter excepcional, de 50 pacotes com 10 unidades cada (total de 500 unidades) do medicamento Onco-BCG (Bacillus calmette-guérin), na concentração 40mg/ml, fabricado
+pela Serum Institute of India PVT Ltd., localizada na Índia, objeto da LI nº 22/1071610-3, de 25/04/2022, ou a que vier a substituí-la, nos termos do presente voto.
+Ressalto que a autorização de importação excepcional pela Diretoria Colegiada da Anvisa não isenta o importador de cumprir os demais requisitos previstos na RDC nº 81, de
+5 de novembro de 2008, RDC nº 383, de 12 de maio de 2020 e demais normas aplicáveis, os quais serão avaliados no processo de importação pela GGPAF, área técnica responsável pela
+avaliação e liberação sanitária de produtos importados.
+  > Destaco, ainda, que, como o medicamento objeto da importação não é regularizado na Anvisa, não é possível atestar a sua qualidade, segurança e eficácia, ficando a instituição importadora responsável por avaliar o benefício-risco da utilização do medicamento em seus pacientes, incluindo o monitoramento de quaisquer eventos adversos ou queixas técnicas.
+
+
+
 - # 2024
   
 - [Pesquisadores do Butantan estudam uso de BCG recombinante como tratamento para câncer de bexiga](https://butantan.gov.br/noticias/pesquisadores-do-butantan-estudam-uso-de-bcg-recombinante-como-tratamento-para-cancer-de-bexiga#:~:text=O%20tratamento%20consiste%20em%20cirurgia,de%20um%20cateter%20na%20uretra.)
